@@ -131,7 +131,8 @@ while True:
     if ball.xcor() < -340 and ball.ycor() < racket_a.ycor() + 50 and ball.ycor() > racket_a.ycor() - 50:
         ball.dx *= -1
 
-
+# The End
+# Hello_world
 
 
 
